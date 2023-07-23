@@ -1,0 +1,3 @@
+[submodule "external/cbase-esp32"]
+	path = external/cbase-esp32
+	url = https://github.com/Murat-Koes-54/cbase-esp32.git
