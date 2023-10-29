@@ -1,6 +1,10 @@
 {
   "workbench.colorTheme": "Atom One Dark",
   "workbench.productIconTheme": "fluent-icons",
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#ecf0f1",
+    "statusBar.foreground": "#2c3e00"
+  },
   "telemetry.telemetryLevel": "off",
   "enable-crash-reporter": false,
   "editor.fontFamily": "Fira Code",
